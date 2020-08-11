@@ -1,7 +1,7 @@
 ### Hi there, I'm David 👋
 
 ## I'm a Software Enginner in the Pacific NW that loves sports, technology, and video games!
-- 🔭 I’m currently working on a [Dev Ed's "The Creative Javascript Course"][devedwebsite]!
+- 🔭 I’m currently working on [Dev Ed's "The Creative Javascript Course"][devedwebsite]!
 - 🌱 I’m currently learning JavaScript, with learning Django on deck
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Complete and host my protfolio website and host another Flask/Django site
