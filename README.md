@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, with learning Django on deck
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Complete and host my protfolio website and host another Flask/Django site
-- ⚡ Fun fact: My family has been San Fancisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" /> season ticket holders for 20 years now
+- ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" /> season ticket holders for 20 years now
 
 ### Connect with me:
 
