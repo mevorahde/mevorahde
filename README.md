@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="mevorahde's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mevorahde&show_icons=true&hide_border=true" />
+<img align="left" alt="mevorahde's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mevorahde&count_private=true&show_icons=true&hide_border=true" />
 
 [website]: https://mevorahde.github.io/FCC-Portfolio/
 [devedwebsite]: https://developedbyed.com/p/the-creative-javascript-course
