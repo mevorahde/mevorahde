@@ -1,11 +1,11 @@
 ### Hi there, I'm David 👋
 
-## I'm a Software Enginner in the Pacific NW that loves sports, technology, and video games!
+## I'm a Software Engineer in the Pacific NW that loves sports, technology, and video games!
 - 🔭 I’m currently working on [Dev Ed's "The Creative Javascript Course"][devedwebsite]!
 - 🌱 I’m currently learning JavaScript, with learning Django on deck
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Complete and host my protfolio website and host another Flask/Django site
-- ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" /> season ticket holders for 20 years now
+- ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" unselectable="on" /> season ticket holders for 20 years now
 
 ### Connect with me:
 
@@ -16,18 +16,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<!--<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />-->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio 2019" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" unselectable="on" />
+<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" unselectable="on" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" unselectable="on"  />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" unselectable="on"  />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" unselectable="on"  />
+<!--<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" unselectable="on"  />-->
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" unselectable="on"  />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" unselectable="on"  />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" unselectable="on"  />
+<img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" unselectable="on" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  unselectable="on" />
+<img align="left" alt="Visual Studio 2019" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" unselectable="on" />
 
 <br />
 <br />
