@@ -4,8 +4,10 @@
 - 🔭 I’m currently working on [Dev Ed's "The Creative Javascript Course"][devedwebsite]!
 - 🌱 I’m currently learning JavaScript, with learning Django on deck
 - 👯 I’m looking to collaborate with other content creators
+- :100: Part of the [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code) challenge
 - 🥅 2020 Goals: Complete and host my protfolio website and host another Flask/Django site
 - ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" unselectable="on" /> season ticket holders for 20 years now
+
 
 ### Connect with me:
 
