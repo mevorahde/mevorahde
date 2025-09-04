@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Mevorah_DE)
+&nbsp;&nbsp;
+[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/david-mevorah-itil-833a9242/)
 <br />
 
 ---
@@ -40,3 +41,4 @@
 [website]: https://mevorahde.github.io/FCC-Portfolio/  
 [twitter]: https://twitter.com/Mevorah_DE  
 [linkedin]: https://www.linkedin.com/in/david-mevorah-itil-833a9242/
+
