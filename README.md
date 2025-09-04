@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators  
 - 💯 Part of the [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code) challenge  
 - 🥅 2025 Goals: Complete my NFL Pool Automation refactor 
-- ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" unselectable="on" /> season ticket holders for 21 years now  
+- ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" unselectable="on" /> season ticket holders for 25 years now!  
 
 ---
 
@@ -41,4 +41,5 @@
 [website]: https://mevorahde.github.io/FCC-Portfolio/  
 [twitter]: https://twitter.com/Mevorah_DE  
 [linkedin]: https://www.linkedin.com/in/david-mevorah-itil-833a9242/
+
 
