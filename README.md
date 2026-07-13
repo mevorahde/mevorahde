@@ -1,45 +1,46 @@
-### Hi there, I'm David 👋
+# Hi, I'm David Mevorah
 
-## I'm a Software Engineer in the Pacific NW who loves sports, technology, and video games!
-- 🔭 I’m currently working through the *Beyond the Basic Stuff With Python* book  
-- 🌱 I’m currently learning Django and experimenting with a Raspberry Pi  
-- 👯 I’m looking to collaborate with other content creators  
-- 💯 Part of the [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code) challenge  
-- 🥅 2025 Goals: Complete my NFL Pool Automation refactor 
-- ⚡ Fun fact: My family has been San Francisco 49er <img alt="49ers" width="26px" src="https://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431" unselectable="on" /> season ticket holders for 25 years now!  
+I am a software engineer specializing in healthcare integration, interoperability, and practical automation. Since 2017, I have developed and supported interfaces that transform HL7 data from electronic medical record systems into product-specific API workflows.
 
----
+My work spans the full integration lifecycle: requirements analysis, interface development, data transformation, automated testing, deployments, production support, and customer-facing troubleshooting. I also build Python tools that replace repetitive work, strengthen validation, and make operational processes more reliable.
 
-### Connect with me:
+## What I work with
 
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Mevorah_DE)
-&nbsp;&nbsp;
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/david-mevorah-itil-833a9242/)
-<br />
+- Healthcare integration: HL7 v2, EMR workflows, middleware, REST APIs, HIPAA-sensitive data
+- Interface engineering: PilotFish, XML, XSLT, JSON, validation, mapping, and transformation logic
+- Software development: Python, SQL, C#, Git, testing, debugging, and technical documentation
+- Delivery and operations: QA, end-to-end testing, deployments, production support, and process automation
 
----
+## How I approach engineering
 
-### Languages and Tools:
+I look for repetitive, time-consuming processes that software can simplify or eliminate. My goal is to reduce manual effort, improve consistency, and give people more time for higher-value work. That approach has led me to create tools for end-to-end HL7 traffic simulation, stress testing, interface reporting, secure credential workflows, spreadsheet automation, project setup, and daily development startup.
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
-<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />  
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />  
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  
-<img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png" />  
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
-<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio.png" />  
+I care about solutions that are maintainable, testable, and useful after the immediate problem has been resolved.
 
-<br />  
-<br />
+## Selected public projects
 
----
+### [NFL Spread Data and Excel Automation](https://github.com/mevorahde/NFL_Pool_Automation)
 
-[website]: https://mevorahde.github.io/FCC-Portfolio/  
-[twitter]: https://twitter.com/Mevorah_DE  
-[linkedin]: https://www.linkedin.com/in/david-mevorah-itil-833a9242/
+A Python workflow that retrieves NFL point-spread data, normalizes schedule information, and updates a structured Excel workbook. It includes time-zone-aware processing, schedule-based locking rules, failure notifications, logging, and regression tests for unusual NFL schedules.
 
+### [Morning Apps Launcher](https://github.com/mevorahde/opening_multi_apps_gui)
 
+A Python desktop utility that stores and launches a configurable group of applications, reducing repetitive daily setup and demonstrating practical GUI automation.
+
+### [Project Creation Automation](https://github.com/mevorahde/ProjectCreationAutomation)
+
+A maintained fork of Tim Eichinger's Windows project-creation utility, originally inspired by Kalle Halden's macOS workflow. I adapted it to my development environment and later modernized its GitHub integration by replacing password-based authentication with token-based REST API calls, adding configuration validation and error handling, and making project-directory creation safer. The command creates a local project folder and remote GitHub repository, then opens the project in the selected IDE.
+
+## Current growth areas
+
+- Deepening my expertise in healthcare interoperability and integration architecture
+- Expanding my Python engineering, testing, and automation practices
+- Building broader experience with FHIR and modern healthcare APIs
+- Applying AI-assisted development thoughtfully to testing, documentation, and operational workflows
+
+Outside of software, I’m a longtime sports fan, and my family has held San Francisco 49ers season tickets for more than 25 years.
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/david-mevorah-engineer/)
+- [GitHub projects](https://github.com/mevorahde?tab=repositories)
