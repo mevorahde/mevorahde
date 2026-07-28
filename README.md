@@ -19,17 +19,25 @@ I care about solutions that are maintainable, testable, and useful after the imm
 
 ## Selected public projects
 
-### [NFL Spread Data and Excel Automation](https://github.com/mevorahde/NFL_Pool_Automation)
+### [SQL Password Locker](https://github.com/mevorahde/sql-password-locker)
 
-A Python workflow that retrieves NFL point-spread data, normalizes schedule information, and updates a structured Excel workbook. It includes time-zone-aware processing, schedule-based locking rules, failure notifications, logging, and regression tests for unusual NFL schedules.
+An encrypted password vault backed by SQL Server, using Argon2id and AES-256-GCM with a CLI, responsive Tkinter GUI, secure configuration handling, schema migrations, and tested ODBC persistence.
 
-### [Morning Apps Launcher](https://github.com/mevorahde/opening_multi_apps_gui)
+### [Password Locker](https://github.com/mevorahde/pw_locker)
 
-A Python desktop utility that stores and launches a configurable group of applications, reducing repetitive daily setup and demonstrating practical GUI automation.
+A local encrypted password vault using scrypt and AES-256-GCM, with SQLite storage, a CLI, Tkinter GUI, conditional clipboard clearing, packaging, and automated tests.
 
-### [Project Creation Automation](https://github.com/mevorahde/ProjectCreationAutomation)
+### [Project Creation Automation](https://github.com/mevorahde/project-creation-automation)
 
-A maintained fork of Tim Eichinger's Windows project-creation utility, originally inspired by Kalle Halden's macOS workflow. I adapted it to my development environment and later modernized its GitHub integration by replacing password-based authentication with token-based REST API calls, adding configuration validation and error handling, and making project-directory creation safer. The command creates a local project folder and remote GitHub repository, then opens the project in the selected IDE.
+A safety-first, cross-platform Python CLI that creates local Git projects and optionally private-by-default GitHub repositories. It provides redacted dry-run plans, explicit confirmation boundaries, conservative rollback, system certificate trust, optional VS Code or PyCharm launch, and Python 3.10–3.13 CI.
+
+### [NFL Pool Automation](https://github.com/mevorahde/NFL_Pool_Automation)
+
+Python automation that retrieves NFL point-spread data and updates structured Excel pool workbooks with deterministic row mapping, schedule edge-case handling, logging, and regression tests.
+
+### [Morning App Launcher](https://github.com/mevorahde/morning-app-launcher)
+
+A privacy-conscious Windows desktop utility for saving, naming, validating, and launching a configurable application set. It includes versioned JSON migration, an accessible Tkinter interface, operational logging, and portable Windows packaging.
 
 ## Current growth areas
 
