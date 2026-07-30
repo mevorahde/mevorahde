@@ -39,6 +39,12 @@ Python automation that retrieves NFL point-spread data and updates structured Ex
 
 A privacy-conscious Windows desktop utility for saving, naming, validating, and launching a configurable application set. It includes versioned JSON migration, an accessible Tkinter interface, operational logging, and portable Windows packaging.
 
+### [Hyphy Oregon Conference Generator](https://github.com/mevorahde/hyphy-oregon-conference-generator)
+
+A cross-platform .NET 10 CLI for accessible, deterministic fantasy-football conference assignments. Features interactive and noninteractive workflows, versioned SplitMix64-v1 randomization, 102 automated tests, Ubuntu/Windows CI, and downloadable release packages.
+
+[View the v1.0.0 release](https://github.com/mevorahde/hyphy-oregon-conference-generator/releases/tag/v1.0.0)
+
 ## Current growth areas
 
 - Deepening my expertise in healthcare interoperability and integration architecture
