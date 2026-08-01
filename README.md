@@ -4,6 +4,12 @@ I am a software engineer specializing in healthcare integration, interoperabilit
 
 My work spans the full integration lifecycle: requirements analysis, interface development, data transformation, automated testing, deployments, production support, and customer-facing troubleshooting. I also build Python tools that replace repetitive work, strengthen validation, and make operational processes more reliable.
 
+## Portfolio
+
+**[Explore my software engineering portfolio](https://mevorahde.github.io/)**
+
+Selected Python, SQL, C#, automation, and healthcare integration work, with an emphasis on reliability, security boundaries, testing, and practical documentation.
+
 ## What I work with
 
 - Healthcare integration: HL7 v2, EMR workflows, middleware, REST APIs, HIPAA-sensitive data
@@ -56,5 +62,6 @@ Outside of software, I’m a longtime sports fan, and my family has held San Fra
 
 ## Connect with me
 
+- [Portfolio](https://mevorahde.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/david-mevorah-engineer/)
 - [GitHub projects](https://github.com/mevorahde?tab=repositories)
