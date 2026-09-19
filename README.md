@@ -47,9 +47,9 @@ A privacy-conscious Windows desktop utility for saving, naming, validating, and 
 
 ### [Hyphy Oregon Conference Generator](https://github.com/mevorahde/hyphy-oregon-conference-generator)
 
-A cross-platform .NET 10 CLI for accessible, deterministic fantasy-football conference assignments. Features interactive and noninteractive workflows, versioned SplitMix64-v1 randomization, 102 automated tests, Ubuntu/Windows CI, and downloadable release packages.
+A cross-platform .NET 10 CLI for accessible, deterministic fantasy-football conference assignments. Features interactive and noninteractive workflows, versioned SplitMix64-v1 randomization, automated tests, Ubuntu/Windows CI, and downloadable release packages—including a standalone Windows x64 executable.
 
-[View the v1.0.0 release](https://github.com/mevorahde/hyphy-oregon-conference-generator/releases/tag/v1.0.0)
+[Download or review the latest v1.0.1 release](https://github.com/mevorahde/hyphy-oregon-conference-generator/releases/tag/v1.0.1)
 
 ## Current growth areas
 
